@@ -3,9 +3,6 @@
 </div>
 
 ## Sobre mí
-
-- 💻 Futuro Ingeniero de Software
-- 📗 Estudiando en la UCM
 - 📧 Contacto: airamxl9@gmail.com
 <br>
 
